@@ -1,6 +1,6 @@
 # CarRental
 
-After cloning the repo please use :yarn: in order for all dependencies to load
+After cloning the repo please use **yarn** in order for all dependencies to load
 
 To run tests you can use:
 - yarn cypress:open - it will open cypress test runner
