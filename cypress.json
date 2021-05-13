@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://qalab.pl.tivixlabs.com/",
+    "testFiles": "**/*.{feature,features}",
+    "video": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 900
+  }

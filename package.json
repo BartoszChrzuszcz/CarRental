@@ -1,0 +1,19 @@
+{
+  "name": "car_rental",
+  "version": "0.1.1",
+  "repository": "https://github.com/BartoszChrzuszcz/CarRental",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "cucumber-expressions": "^6.0.1",
+    "cucumber-tag-expressions": "^1.1.1",
+    "cypress": "^7.2.0",
+    "cypress-cucumber-preprocessor": "^2.0.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
